@@ -13,8 +13,7 @@ Data folder contain recording session files with extension '.NEV', '.NSx', which
 
 %Data folder also contain labeled waveforms. (Matlab struct)
 
-%CompleteCodeFolder: contain the complete code(for feature vector extraction, training deeplearning algorithms (DeepSpike CNN, DeepSpike FNN)). Please write me if you 
-%have any question about uderstanding code. (muhammad.saif-ur-rehman@tu-dortmund.de)
+%CompleteCodeFolder: contain the complete code(for feature vector extraction, training deeplearning algorithms (DeepSpike CNN, DeepSpike FNN)). Please write me if you have any question about uderstanding code. (muhammad.saif-ur-rehman@tu-dortmund.de)
 
  
 
