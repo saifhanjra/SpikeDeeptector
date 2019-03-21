@@ -1,6 +1,6 @@
 # DeepSpike
 This Repository contain the code of DeepSpike Algorithm. We have also provided some data to evaluate the models (DeepSpike CNN & DeepSpike FNN).
-Data folder: contains the data of six reocrding sessions from patients.
+Data folder: contains the data of six reocrding sessions from different patients.
 
 EvaluateTrainedModel: Contain the objects(trained model of DeepSpikeCNN & DeepSpikeFNN). It also contain code to evaluate both models 'mainEvaluateTrainedModelDeepSpikeCNN.m'
 and 'mainEvaluateTrainedModelDeepSpikeFNN'.Both Matlab files will call the respective functions automatiaclly (just add this folder in MATLAB Path). There are two dependecies to run this code. 1: please install the Matlab deeplearning tool box. 22. Install the NPMK package, which is Neural Processing Matlab Kit, is a set of functions for loading 
