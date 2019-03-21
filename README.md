@@ -8,7 +8,7 @@ and 'mainEvaluateTrainedModelDeepSpikeFNN'.Both Matlab files will call the respe
 2. Install the NPMK package, which is Neural Processing Matlab Kit, is a set of functions for loading 
 and manipulating data from Blackrock Microsystems' data files. Information about installing this package can be foound here: https://github.com/BlackrockMicrosystems/NPMK 
 
-Data folder contain recording session files with extension '.NEV', '.NSx', which are the output files genertaed by BLackrock Neural Signal processor. To visualize the data, please download and NPLAYServer and BlackrockCentral software. Intruction for installation and using the software for can be found here 
+Data folder contain recording session files with extension '.NEV', '.NSx', which are the output files genertaed by BLackrock Neural Signal processor. To visualize the data, please download and NPLAYServer and BlackrockCentral software. Instruction for installation and using the software for can be found here 
 'https://blackrockmicro.com/wp-content/uploads/2016/08/LB-0574-Rev-4.00-Central-Software-Suite-IFU.pdf'
 
 %Data folder also contain labeled waveforms. (Matlab struct)
