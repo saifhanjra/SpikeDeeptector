@@ -1,6 +1,6 @@
 # DeepSpike
 This Repository contain the code of DeepSpike Algorithm. We have also provided some data to evaluate the models (DeepSpike CNN & DeepSpike FNN).
-Data folder: contains the data of seven reocrding sessions from different patients.
+Data folder: contains the data of seven reocrding sessions from different patients implanted with differrent types of micro-electrodes.
 
 EvaluateTrainedModel: Contain the objects(trained model of DeepSpikeCNN & DeepSpikeFNN). It also contain code to evaluate both models 'mainEvaluateTrainedModelDeepSpikeCNN.m'
 and 'mainEvaluateTrainedModelDeepSpikeFNN'.Both Matlab files will call the respective functions automatiaclly (just add this folder in MATLAB Path). There are two dependecies to run this code. 
