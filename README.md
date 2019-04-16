@@ -1,4 +1,4 @@
-# DeepSpike
+# SpikeDeeptector
 This Repository contain the code of SpikeDeeptector Algorithm. We have also provided some data to evaluate the models (SpikeDeeptector CNN & SpikeDeeptector FNN).
 Data folder: contains the data of seven reocrding sessions from different patients implanted with differrent types of micro-electrodes.
 
